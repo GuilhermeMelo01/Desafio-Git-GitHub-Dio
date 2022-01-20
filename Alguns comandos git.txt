@@ -1,0 +1,20 @@
+## ALGUNS COMANDOS UTEIS DO GIT QUE APRENDIR COM A DIO
+
+
+
+#### COMANDOS:
+
+- dir -> lista todas as pastas do usuario
+
+- cd -> permite que a gente navege entre as pastas.
+
+- mkdir -> cria uma nova pasta
+
+- del -> deleta apenas os arquivos
+
+- rmdir -> remove tbem o repositorio
+
+  ***
+
+  **Coloquei alguns comandos que aprendir no curso de introducao ao git&GitHub da dio!**
+

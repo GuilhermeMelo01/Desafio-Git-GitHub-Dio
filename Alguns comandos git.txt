@@ -1,8 +1,8 @@
-## ALGUNS COMANDOS UTEIS DO GIT QUE APRENDIR COM A DIO
+ALGUNS COMANDOS UTEIS DO GIT QUE APRENDIR COM A DIO
 
 
 
-#### COMANDOS:
+COMANDOS:
 
 - dir -> lista todas as pastas do usuario
 
@@ -14,7 +14,5 @@
 
 - rmdir -> remove tbem o repositorio
 
-  ***
-
-  **Coloquei alguns comandos que aprendir no curso de introducao ao git&GitHub da dio!**
+  Coloquei alguns comandos que aprendir no curso de introducao ao git&GitHub da dio!
 
